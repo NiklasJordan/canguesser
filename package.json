@@ -1,0 +1,21 @@
+{
+  "name": "canguesser",
+  "version": "1.0.0",
+  "description": "A quiz built on EUMETSAT's [Climate Anomalies and Normals (CAN) service](https://can.eumetsat.int). Players guess the place and year of 20 climate events from 2007 to 2025, such as droughts, floods, sunshine records and sea ice extremes. The top ten scores are stored in SQLite.",
+  "type": "module",
+  "main": "server.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hscmap/healpix": "^1.4.12",
+    "@zarrita/storage": "^0.1.4",
+    "numcodecs": "^0.3.2",
+    "topojson-client": "^3.1.0",
+    "world-atlas": "^2.0.2",
+    "zarrita": "^0.5.4"
+  }
+}

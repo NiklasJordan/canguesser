@@ -1,0 +1,52 @@
+{
+  "zarr_format": 3,
+  "node_type": "array",
+  "shape": [
+    44,
+    60
+  ],
+  "data_type": "float32",
+  "chunk_grid": {
+    "name": "regular",
+    "configuration": {
+      "chunk_shape": [
+        44,
+        60
+      ]
+    }
+  },
+  "chunk_key_encoding": {
+    "name": "default",
+    "configuration": {
+      "separator": "/"
+    }
+  },
+  "fill_value": "NaN",
+  "codecs": [
+    {
+      "name": "bytes",
+      "configuration": {
+        "endian": "little"
+      }
+    },
+    {
+      "name": "gzip",
+      "configuration": {
+        "level": 6
+      }
+    }
+  ],
+  "attributes": {
+    "long_name": "Sunshine duration anomaly (CM SAF SARAH-3), mean over the event months",
+    "units": "h",
+    "months": [
+      "2012-06",
+      "2012-07",
+      "2012-08"
+    ]
+  },
+  "dimension_names": [
+    "lat",
+    "lon"
+  ]
+}

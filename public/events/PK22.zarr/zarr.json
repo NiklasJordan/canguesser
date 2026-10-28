@@ -1,0 +1,364 @@
+{
+  "zarr_format": 3,
+  "node_type": "group",
+  "attributes": {
+    "title": "CANguesser event PK22",
+    "event": "PK22",
+    "variable": "swi",
+    "long_name": "Root-zone soil moisture anomaly (H SAF, layer 28-100 cm)",
+    "normal_long_name": "Root-zone soil wetness climate normal 1991-2020",
+    "units": "percentage points (soil wetness index x 100)",
+    "event_months": [
+      "2022-08",
+      "2022-09"
+    ],
+    "bbox": [
+      58,
+      22,
+      80,
+      38
+    ],
+    "grid_resolution_deg": 0.35,
+    "region": {
+      "type": "country",
+      "id": "586"
+    },
+    "region_cells": 1344,
+    "healpix_nside": {
+      "series": 256,
+      "map": 256
+    },
+    "healpix_order": "nested",
+    "source_stores": {
+      "series": "https://can.eumetsat.int/data/anomalies/hsaf/rootzone-soil-moisture_anomalies_hp256_ts.zarr",
+      "map": "https://can.eumetsat.int/data/anomalies/hsaf/rootzone-soil-moisture_anomalies_hp256_maps.zarr",
+      "normals": "https://can.eumetsat.int/data/normals/hsaf/rootzone-soil-moisture_normals_hp256_ts.zarr"
+    },
+    "source_units": "Index (-1 to 1)",
+    "display_scale": 100,
+    "reference_period": "1991-2020",
+    "source": "EUMETSAT Climate Anomalies and Normals (CAN) service, https://can.eumetsat.int",
+    "built": "2026-10-28T17:51:15.531Z"
+  },
+  "consolidated_metadata": {
+    "kind": "inline",
+    "must_understand": false,
+    "metadata": {
+      "anomaly_map": {
+        "zarr_format": 3,
+        "node_type": "array",
+        "shape": [
+          46,
+          63
+        ],
+        "data_type": "float32",
+        "chunk_grid": {
+          "name": "regular",
+          "configuration": {
+            "chunk_shape": [
+              46,
+              63
+            ]
+          }
+        },
+        "chunk_key_encoding": {
+          "name": "default",
+          "configuration": {
+            "separator": "/"
+          }
+        },
+        "fill_value": "NaN",
+        "codecs": [
+          {
+            "name": "bytes",
+            "configuration": {
+              "endian": "little"
+            }
+          },
+          {
+            "name": "gzip",
+            "configuration": {
+              "level": 6
+            }
+          }
+        ],
+        "attributes": {
+          "long_name": "Root-zone soil moisture anomaly (H SAF, layer 28-100 cm), mean over the event months",
+          "units": "percentage points (soil wetness index x 100)",
+          "months": [
+            "2022-08",
+            "2022-09"
+          ]
+        },
+        "dimension_names": [
+          "lat",
+          "lon"
+        ]
+      },
+      "lat": {
+        "zarr_format": 3,
+        "node_type": "array",
+        "shape": [
+          46
+        ],
+        "data_type": "float64",
+        "chunk_grid": {
+          "name": "regular",
+          "configuration": {
+            "chunk_shape": [
+              46
+            ]
+          }
+        },
+        "chunk_key_encoding": {
+          "name": "default",
+          "configuration": {
+            "separator": "/"
+          }
+        },
+        "fill_value": "NaN",
+        "codecs": [
+          {
+            "name": "bytes",
+            "configuration": {
+              "endian": "little"
+            }
+          },
+          {
+            "name": "gzip",
+            "configuration": {
+              "level": 6
+            }
+          }
+        ],
+        "attributes": {
+          "standard_name": "latitude",
+          "units": "degrees_north"
+        },
+        "dimension_names": [
+          "lat"
+        ]
+      },
+      "lon": {
+        "zarr_format": 3,
+        "node_type": "array",
+        "shape": [
+          63
+        ],
+        "data_type": "float64",
+        "chunk_grid": {
+          "name": "regular",
+          "configuration": {
+            "chunk_shape": [
+              63
+            ]
+          }
+        },
+        "chunk_key_encoding": {
+          "name": "default",
+          "configuration": {
+            "separator": "/"
+          }
+        },
+        "fill_value": "NaN",
+        "codecs": [
+          {
+            "name": "bytes",
+            "configuration": {
+              "endian": "little"
+            }
+          },
+          {
+            "name": "gzip",
+            "configuration": {
+              "level": 6
+            }
+          }
+        ],
+        "attributes": {
+          "standard_name": "longitude",
+          "units": "degrees_east"
+        },
+        "dimension_names": [
+          "lon"
+        ]
+      },
+      "month": {
+        "zarr_format": 3,
+        "node_type": "array",
+        "shape": [
+          12
+        ],
+        "data_type": "int32",
+        "chunk_grid": {
+          "name": "regular",
+          "configuration": {
+            "chunk_shape": [
+              12
+            ]
+          }
+        },
+        "chunk_key_encoding": {
+          "name": "default",
+          "configuration": {
+            "separator": "/"
+          }
+        },
+        "fill_value": 0,
+        "codecs": [
+          {
+            "name": "bytes",
+            "configuration": {
+              "endian": "little"
+            }
+          },
+          {
+            "name": "gzip",
+            "configuration": {
+              "level": 6
+            }
+          }
+        ],
+        "attributes": {
+          "long_name": "calendar month"
+        },
+        "dimension_names": [
+          "month"
+        ]
+      },
+      "region_anomaly": {
+        "zarr_format": 3,
+        "node_type": "array",
+        "shape": [
+          429
+        ],
+        "data_type": "float32",
+        "chunk_grid": {
+          "name": "regular",
+          "configuration": {
+            "chunk_shape": [
+              429
+            ]
+          }
+        },
+        "chunk_key_encoding": {
+          "name": "default",
+          "configuration": {
+            "separator": "/"
+          }
+        },
+        "fill_value": "NaN",
+        "codecs": [
+          {
+            "name": "bytes",
+            "configuration": {
+              "endian": "little"
+            }
+          },
+          {
+            "name": "gzip",
+            "configuration": {
+              "level": 6
+            }
+          }
+        ],
+        "attributes": {
+          "long_name": "Root-zone soil moisture anomaly (H SAF, layer 28-100 cm), mean over the region",
+          "units": "percentage points (soil wetness index x 100)"
+        },
+        "dimension_names": [
+          "time"
+        ]
+      },
+      "region_normal": {
+        "zarr_format": 3,
+        "node_type": "array",
+        "shape": [
+          12
+        ],
+        "data_type": "float32",
+        "chunk_grid": {
+          "name": "regular",
+          "configuration": {
+            "chunk_shape": [
+              12
+            ]
+          }
+        },
+        "chunk_key_encoding": {
+          "name": "default",
+          "configuration": {
+            "separator": "/"
+          }
+        },
+        "fill_value": "NaN",
+        "codecs": [
+          {
+            "name": "bytes",
+            "configuration": {
+              "endian": "little"
+            }
+          },
+          {
+            "name": "gzip",
+            "configuration": {
+              "level": 6
+            }
+          }
+        ],
+        "attributes": {
+          "long_name": "Root-zone soil wetness climate normal 1991-2020, mean over the region",
+          "units": "% (soil wetness index x 100)"
+        },
+        "dimension_names": [
+          "month"
+        ]
+      },
+      "time": {
+        "zarr_format": 3,
+        "node_type": "array",
+        "shape": [
+          429
+        ],
+        "data_type": "int32",
+        "chunk_grid": {
+          "name": "regular",
+          "configuration": {
+            "chunk_shape": [
+              429
+            ]
+          }
+        },
+        "chunk_key_encoding": {
+          "name": "default",
+          "configuration": {
+            "separator": "/"
+          }
+        },
+        "fill_value": 0,
+        "codecs": [
+          {
+            "name": "bytes",
+            "configuration": {
+              "endian": "little"
+            }
+          },
+          {
+            "name": "gzip",
+            "configuration": {
+              "level": 6
+            }
+          }
+        ],
+        "attributes": {
+          "standard_name": "time",
+          "units": "days since 1991-01-01",
+          "calendar": "standard"
+        },
+        "dimension_names": [
+          "time"
+        ]
+      }
+    }
+  }
+}

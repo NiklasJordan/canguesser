@@ -1,0 +1,29 @@
+services:
+  quiz:
+    build: .
+    image: canguesser:latest
+    ports:
+      - "3099:3099"
+    environment:
+      # Set a long random value to allow DELETE /api/scores/<id> for moderation
+      ADMIN_TOKEN: ""
+      # Set to 1 when running behind a reverse proxy that sends X-Forwarded-For
+      TRUST_PROXY: ""
+      # New scores allowed per IP address per 10 minutes
+      RATE_LIMIT: "60"
+      # Live data from the CAN Zarr stores (set to 0 to use only the bundled snapshot)
+      LIVE_DATA: "1"
+      STAC_ROOT: "https://can.eumetsat.int/stac/"
+      # HEALPix resolution of the stores used: 128, 256, 512 or 1024
+      TS_NSIDE: "256"
+      MAP_NSIDE: "256"
+      # Leave empty to read the ordering from the stores; "nested" or "ring" to force it
+      HEALPIX_ORDER: ""
+      # Rebuild the events from CAN every N hours (0 = only at start)
+      REFRESH_HOURS: "24"
+    volumes:
+      - scores:/data
+    restart: unless-stopped
+
+volumes:
+  scores:

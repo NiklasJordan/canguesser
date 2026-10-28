@@ -1,0 +1,51 @@
+{
+  "zarr_format": 3,
+  "node_type": "array",
+  "shape": [
+    46,
+    63
+  ],
+  "data_type": "float32",
+  "chunk_grid": {
+    "name": "regular",
+    "configuration": {
+      "chunk_shape": [
+        46,
+        63
+      ]
+    }
+  },
+  "chunk_key_encoding": {
+    "name": "default",
+    "configuration": {
+      "separator": "/"
+    }
+  },
+  "fill_value": "NaN",
+  "codecs": [
+    {
+      "name": "bytes",
+      "configuration": {
+        "endian": "little"
+      }
+    },
+    {
+      "name": "gzip",
+      "configuration": {
+        "level": 6
+      }
+    }
+  ],
+  "attributes": {
+    "long_name": "Root-zone soil moisture anomaly (H SAF, layer 28-100 cm), mean over the event months",
+    "units": "percentage points (soil wetness index x 100)",
+    "months": [
+      "2022-08",
+      "2022-09"
+    ]
+  },
+  "dimension_names": [
+    "lat",
+    "lon"
+  ]
+}

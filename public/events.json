@@ -1,0 +1,1006 @@
+[
+ {
+  "k": "AR23",
+  "v": "swi",
+  "months": [
+   [
+    2023,
+    1
+   ],
+   [
+    2023,
+    2
+   ],
+   [
+    2023,
+    3
+   ]
+  ],
+  "bbox": [
+   -76.0,
+   -56.0,
+   -50.0,
+   -20.0
+  ],
+  "region": {
+   "type": "country",
+   "id": "032"
+  },
+  "name": "Argentina drought",
+  "when": "Summer 2022–23",
+  "loc": "032",
+  "year": 2023,
+  "opts": [
+   "032",
+   "858",
+   "600"
+  ],
+  "yearOpts": [
+   2023,
+   2020,
+   2009
+  ],
+  "dir": -1,
+  "text": "Three La Niña years in a row left Argentina's farm belt parched. The WMO reported that September–December 2022 brought less than half the normal rainfall, the lowest in 35 years, and that farm exports were expected to fall 28% in 2023.",
+  "wiki": {
+   "t": "2022–2023 global food crises",
+   "u": "https://en.wikipedia.org/wiki/2022%E2%80%932023_global_food_crises"
+  },
+  "alt": {
+   "t": "WMO: drought in Argentina",
+   "u": "https://wmo.int/node/20888"
+  }
+ },
+ {
+  "k": "AU19",
+  "v": "swi",
+  "months": [
+   [
+    2019,
+    9
+   ],
+   [
+    2019,
+    10
+   ],
+   [
+    2019,
+    11
+   ],
+   [
+    2019,
+    12
+   ]
+  ],
+  "bbox": [
+   110.0,
+   -45.0,
+   156.0,
+   -9.0
+  ],
+  "region": {
+   "type": "country",
+   "id": "036"
+  },
+  "name": "Australia's 2019 drought and Black Summer",
+  "when": "Spring 2019",
+  "loc": "036",
+  "year": 2019,
+  "opts": [
+   "036",
+   "554",
+   "598"
+  ],
+  "yearOpts": [
+   2019,
+   2006,
+   2014
+  ],
+  "dir": -1,
+  "text": "2019 was Australia's warmest and driest year on record, with rainfall about 40% below average. The dried-out landscape fed the 2019–20 Black Summer bushfires, which burned around 24 million hectares.",
+  "wiki": {
+   "t": "2019–20 Australian bushfire season",
+   "u": "https://en.wikipedia.org/wiki/2019%E2%80%9320_Australian_bushfire_season"
+  },
+  "alt": {
+   "t": "Bureau of Meteorology: Annual climate statement 2019",
+   "u": "http://www.bom.gov.au/climate/current/annual/aus/2019/"
+  }
+ },
+ {
+  "k": "AU11",
+  "v": "swi",
+  "months": [
+   [
+    2011,
+    1
+   ],
+   [
+    2011,
+    2
+   ],
+   [
+    2011,
+    3
+   ]
+  ],
+  "bbox": [
+   110.0,
+   -45.0,
+   156.0,
+   -9.0
+  ],
+  "region": {
+   "type": "country",
+   "id": "036"
+  },
+  "name": "Queensland floods",
+  "when": "Summer 2010–11",
+  "loc": "036",
+  "year": 2011,
+  "opts": [
+   "036",
+   "554",
+   "598"
+  ],
+  "yearOpts": [
+   2011,
+   2022,
+   2016
+  ],
+  "dir": 1,
+  "text": "One of the strongest La Niña events in a century gave Queensland its wettest December on record. Floods put 78% of the state under a disaster declaration, and about 20,000 homes in Brisbane were flooded in January 2011.",
+  "wiki": {
+   "t": "2010–2011 Queensland floods",
+   "u": "https://en.wikipedia.org/wiki/2010%E2%80%932011_Queensland_floods"
+  },
+  "alt": {
+   "t": "Bureau of Meteorology: special climate statement",
+   "u": "https://www.bom.gov.au/climate/current/statements/scs24c.pdf"
+  }
+ },
+ {
+  "k": "BR24",
+  "v": "swi",
+  "months": [
+   [
+    2024,
+    8
+   ],
+   [
+    2024,
+    9
+   ],
+   [
+    2024,
+    10
+   ]
+  ],
+  "bbox": [
+   -75.0,
+   -35.0,
+   -33.0,
+   6.0
+  ],
+  "region": {
+   "type": "country",
+   "id": "076"
+  },
+  "name": "Amazon drought",
+  "when": "Aug–Oct 2024",
+  "loc": "076",
+  "year": 2024,
+  "opts": [
+   "076",
+   "068",
+   "604"
+  ],
+  "yearOpts": [
+   2024,
+   2015,
+   2010
+  ],
+  "dir": -1,
+  "text": "A second year of drought pushed Amazon rivers to record lows. In October 2024 the Rio Negro at Manaus fell to its lowest level in 122 years of measurements, and fires burned around 46 million hectares across Brazil that year.",
+  "wiki": {
+   "t": "2023–2024 South American drought",
+   "u": "https://en.wikipedia.org/wiki/2023%E2%80%932024_South_American_drought"
+  },
+  "alt": {
+   "t": "EUSPA / Copernicus: record drought on the Rio Negro",
+   "u": "https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-day/record-drought-rio-negro"
+  }
+ },
+ {
+  "k": "GR23",
+  "v": "swi",
+  "months": [
+   [
+    2023,
+    9
+   ],
+   [
+    2023,
+    10
+   ]
+  ],
+  "bbox": [
+   15.0,
+   33.0,
+   32.0,
+   45.0
+  ],
+  "region": {
+   "type": "country",
+   "id": "300"
+  },
+  "name": "Storm Daniel",
+  "when": "September 2023",
+  "loc": "300",
+  "year": 2023,
+  "opts": [
+   "300",
+   "100",
+   "792"
+  ],
+  "yearOpts": [
+   2023,
+   2018,
+   2010
+  ],
+  "dir": 1,
+  "text": "Storm Daniel dropped 759 mm of rain on Zagora in a single day on 5 September 2023 and flooded the Thessaly plain, which produces about a sixth of Greece's farm output. 17 people died in Greece and damage passed €2 billion.",
+  "wiki": {
+   "t": "Storm Daniel",
+   "u": "https://en.wikipedia.org/wiki/Storm_Daniel"
+  },
+  "alt": {
+   "t": "NASA Earth Observatory: Greece's agricultural heartland underwater",
+   "u": "https://science.nasa.gov/earth/earth-observatory/greeces-agricultural-heartland-underwater-151816/"
+  }
+ },
+ {
+  "k": "PK22",
+  "v": "swi",
+  "months": [
+   [
+    2022,
+    8
+   ],
+   [
+    2022,
+    9
+   ]
+  ],
+  "bbox": [
+   58.0,
+   22.0,
+   80.0,
+   38.0
+  ],
+  "region": {
+   "type": "country",
+   "id": "586"
+  },
+  "name": "Pakistan floods",
+  "when": "Monsoon 2022",
+  "loc": "586",
+  "year": 2022,
+  "opts": [
+   "586",
+   "356",
+   "004"
+  ],
+  "yearOpts": [
+   2022,
+   2010,
+   2015
+  ],
+  "dir": 1,
+  "text": "Record monsoon rain flooded roughly a tenth of Pakistan in 2022, and Sindh got more than five times its usual rainfall. About 33 million people were affected, 1,739 died, and the World Bank put the damage at around US$40 billion.",
+  "wiki": {
+   "t": "2022 Pakistan floods",
+   "u": "https://en.wikipedia.org/wiki/2022_Pakistan_floods"
+  },
+  "alt": {
+   "t": "NASA Earth Observatory: Lake Manchar is overflowing",
+   "u": "https://science.nasa.gov/earth/earth-observatory/lake-manchar-is-overflowing-150306/"
+  }
+ },
+ {
+  "k": "KE19",
+  "v": "swi",
+  "months": [
+   [
+    2019,
+    11
+   ],
+   [
+    2019,
+    12
+   ]
+  ],
+  "bbox": [
+   30.0,
+   -8.0,
+   52.0,
+   8.0
+  ],
+  "region": {
+   "type": "country",
+   "id": "404"
+  },
+  "name": "East Africa short-rains floods",
+  "when": "Oct–Dec 2019",
+  "loc": "404",
+  "year": 2019,
+  "opts": [
+   "404",
+   "231",
+   "834"
+  ],
+  "yearOpts": [
+   2019,
+   2006,
+   2015
+  ],
+  "dir": 1,
+  "text": "One of the strongest positive Indian Ocean Dipole events since 1961 warmed the western Indian Ocean in late 2019. East Africa got about three times its normal rainfall, and floods hit Kenya, Somalia, Ethiopia and Uganda.",
+  "wiki": {
+   "t": "Indian Ocean Dipole",
+   "u": "https://en.wikipedia.org/wiki/Indian_Ocean_Dipole"
+  },
+  "alt": {
+   "t": "ICPAC: October–December 2019 extreme floods",
+   "u": "https://www.icpac.net/news/october-december-2019-extreme-floods-eastern-africa-climate-variability-or-change/"
+  }
+ },
+ {
+  "k": "ZM24",
+  "v": "swi",
+  "months": [
+   [
+    2024,
+    1
+   ],
+   [
+    2024,
+    2
+   ],
+   [
+    2024,
+    3
+   ]
+  ],
+  "bbox": [
+   18.0,
+   -22.0,
+   38.0,
+   -6.0
+  ],
+  "region": {
+   "type": "country",
+   "id": "894"
+  },
+  "name": "Southern Africa drought",
+  "when": "Jan–Mar 2024",
+  "loc": "894",
+  "year": 2024,
+  "opts": [
+   "894",
+   "716",
+   "454"
+  ],
+  "yearOpts": [
+   2024,
+   2016,
+   2019
+  ],
+  "dir": -1,
+  "text": "An El Niño-driven drought wrecked the 2023–24 growing season. Zambia declared a national disaster on 29 February 2024, and as hydropower failed, the utility ZESCO began daily power cuts of 8 hours, later 12.",
+  "wiki": {
+   "t": "2024 Zambian drought",
+   "u": "https://en.wikipedia.org/wiki/2024_Zambian_drought"
+  },
+  "alt": {
+   "t": "World Weather Attribution: El Niño key driver of drought",
+   "u": "https://www.worldweatherattribution.org/el-nino-key-driver-of-drought-in-highly-vulnerable-southern-african-countries/"
+  }
+ },
+ {
+  "k": "ZA16",
+  "v": "swi",
+  "months": [
+   [
+    2015,
+    12
+   ],
+   [
+    2016,
+    1
+   ],
+   [
+    2016,
+    2
+   ]
+  ],
+  "bbox": [
+   14.0,
+   -36.0,
+   36.0,
+   -20.0
+  ],
+  "region": {
+   "type": "country",
+   "id": "710"
+  },
+  "name": "El Niño drought in southern Africa",
+  "when": "Summer 2015–16",
+  "loc": "710",
+  "year": 2016,
+  "opts": [
+   "710",
+   "516",
+   "072"
+  ],
+  "yearOpts": [
+   2016,
+   2019,
+   2004
+  ],
+  "dir": -1,
+  "text": "The 2015–16 El Niño brought one of southern Africa's worst droughts. SADC declared a regional drought disaster in March 2016, and South Africa's maize crop was forecast 47% below its five-year average.",
+  "wiki": {
+   "t": "2014–2016 El Niño event",
+   "u": "https://en.wikipedia.org/wiki/2014%E2%80%932016_El_Ni%C3%B1o_event"
+  },
+  "alt": {
+   "t": "USDA: South Africa El Niño drought",
+   "u": "https://ipad.fas.usda.gov/highlights/2016/05/SouthAfricaElNino/index.htm"
+  }
+ },
+ {
+  "k": "SO11",
+  "v": "swi",
+  "months": [
+   [
+    2011,
+    3
+   ],
+   [
+    2011,
+    4
+   ],
+   [
+    2011,
+    5
+   ]
+  ],
+  "bbox": [
+   36.0,
+   -4.0,
+   54.0,
+   14.0
+  ],
+  "region": {
+   "type": "country",
+   "id": "706"
+  },
+  "name": "East Africa drought and Somalia famine",
+  "when": "Mar–May 2011",
+  "loc": "706",
+  "year": 2011,
+  "opts": [
+   "706",
+   "231",
+   "404"
+  ],
+  "yearOpts": [
+   2011,
+   2017,
+   2022
+  ],
+  "dir": -1,
+  "text": "Failed rains in 2010 and 2011 caused East Africa's worst drought in about 60 years. The UN declared famine in parts of Somalia on 20 July 2011, and around 260,000 people died, half of them children under five.",
+  "wiki": {
+   "t": "2011 East Africa drought",
+   "u": "https://en.wikipedia.org/wiki/2011_East_Africa_drought"
+  },
+  "alt": {
+   "t": "UN News: Somalia famine death toll",
+   "u": "https://news.un.org/story/2013/05/438682"
+  }
+ },
+ {
+  "k": "US12",
+  "v": "swi",
+  "months": [
+   [
+    2012,
+    6
+   ],
+   [
+    2012,
+    7
+   ],
+   [
+    2012,
+    8
+   ]
+  ],
+  "bbox": [
+   -128.0,
+   22.0,
+   -64.0,
+   52.0
+  ],
+  "region": {
+   "type": "country",
+   "id": "840"
+  },
+  "name": "US drought",
+  "when": "Summer 2012",
+  "loc": "840",
+  "year": 2012,
+  "opts": [
+   "840",
+   "124",
+   "484"
+  ],
+  "yearOpts": [
+   2012,
+   2022,
+   2007
+  ],
+  "dir": -1,
+  "text": "At its peak in July 2012, about 64% of the contiguous United States was in drought, an extent comparable to the 1930s and 1950s. Crop losses across the Midwest cost more than $35 billion.",
+  "wiki": {
+   "t": "2012–2013 North American drought",
+   "u": "https://en.wikipedia.org/wiki/2012%E2%80%932013_North_American_drought"
+  },
+  "alt": {
+   "t": "drought.gov: how the central US drought of 2012 evolved",
+   "u": "https://www.drought.gov/documents/too-much-too-little-how-central-us-drought-2012-evolved-out-one-most-devastating-floods"
+  }
+ },
+ {
+  "k": "GB07",
+  "v": "swi",
+  "months": [
+   [
+    2007,
+    7
+   ],
+   [
+    2007,
+    8
+   ]
+  ],
+  "bbox": [
+   -11.0,
+   49.0,
+   4.0,
+   60.0
+  ],
+  "region": {
+   "type": "country",
+   "id": "826"
+  },
+  "name": "UK summer floods",
+  "when": "Summer 2007",
+  "loc": "826",
+  "year": 2007,
+  "opts": [
+   "826",
+   "372",
+   "250"
+  ],
+  "yearOpts": [
+   2007,
+   2012,
+   2014
+  ],
+  "dir": 1,
+  "text": "May to July 2007 was the wettest in England and Wales in records going back to 1766. The June and July floods killed 13 people and caused about £6.5 billion in damage.",
+  "wiki": {
+   "t": "2007 United Kingdom floods",
+   "u": "https://en.wikipedia.org/wiki/2007_United_Kingdom_floods"
+  },
+  "alt": {
+   "t": "Met Office: record rainfall May–July 2007",
+   "u": "https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/weather/learn-about/uk-past-events/interesting/2007/record-rainfall---june-july--may-july-2007---met-office.pdf"
+  }
+ },
+ {
+  "k": "GB25",
+  "v": "sdu",
+  "months": [
+   [
+    2025,
+    3
+   ],
+   [
+    2025,
+    4
+   ],
+   [
+    2025,
+    5
+   ]
+  ],
+  "bbox": [
+   -11.0,
+   49.0,
+   4.0,
+   60.0
+  ],
+  "region": {
+   "type": "country",
+   "id": "826"
+  },
+  "name": "The UK's sunniest spring",
+  "when": "Spring 2025",
+  "loc": "826",
+  "year": 2025,
+  "opts": [
+   "826",
+   "372",
+   "528"
+  ],
+  "yearOpts": [
+   2025,
+   2020,
+   2018
+  ],
+  "dir": 1,
+  "text": "With 653 hours of sunshine, spring 2025 was the UK's sunniest since the series began in 1910, beating 2020 by more than 27 hours. It was also the warmest spring on record.",
+  "wiki": {
+   "t": "Drought in the United Kingdom",
+   "u": "https://en.wikipedia.org/wiki/Drought_in_the_United_Kingdom"
+  },
+  "alt": {
+   "t": "Met Office: spring 2025 warmest and sunniest on record",
+   "u": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2025/double-record-breaker-spring-2025-is-warmest-and-sunniest-on-uk-record"
+  }
+ },
+ {
+  "k": "NL20",
+  "v": "sdu",
+  "months": [
+   [
+    2020,
+    3
+   ],
+   [
+    2020,
+    4
+   ],
+   [
+    2020,
+    5
+   ]
+  ],
+  "bbox": [
+   -2.0,
+   48.0,
+   14.0,
+   57.0
+  ],
+  "region": {
+   "type": "country",
+   "id": "528"
+  },
+  "name": "The lockdown spring",
+  "when": "Spring 2020",
+  "loc": "528",
+  "year": 2020,
+  "opts": [
+   "528",
+   "056",
+   "276"
+  ],
+  "yearOpts": [
+   2020,
+   2022,
+   2011
+  ],
+  "dir": 1,
+  "text": "Spring 2020 gave the Netherlands 805 hours of sunshine against a normal of 517, the most since 1901. Many people credited the COVID-19 lockdown, but KNMI found the weather pattern did it. Cleaner air made the sky bluer but added only a few percent of sunshine.",
+  "wiki": {
+   "t": "Impact of the COVID-19 pandemic on the environment",
+   "u": "https://en.wikipedia.org/wiki/Impact_of_the_COVID-19_pandemic_on_the_environment"
+  },
+  "alt": {
+   "t": "KNMI: sunny spring was not caused by the lockdown",
+   "u": "https://www.knmi.nl/over-het-knmi/nieuws/zonnige-lente-kwam-niet-door-lockdown-wel-zonrecords-verbroken"
+  }
+ },
+ {
+  "k": "DK18",
+  "v": "sdu",
+  "months": [
+   [
+    2018,
+    5
+   ],
+   [
+    2018,
+    6
+   ],
+   [
+    2018,
+    7
+   ]
+  ],
+  "bbox": [
+   3.0,
+   52.0,
+   19.0,
+   60.0
+  ],
+  "region": {
+   "type": "country",
+   "id": "208"
+  },
+  "name": "The 2018 heatwave summer",
+  "when": "Summer 2018",
+  "loc": "208",
+  "year": 2018,
+  "opts": [
+   "208",
+   "752",
+   "276"
+  ],
+  "yearOpts": [
+   2018,
+   2008,
+   2023
+  ],
+  "dir": 1,
+  "text": "Summer 2018 gave Denmark 802 hours of sunshine, the most since records began in 1920, and July 2018 was the sunniest month ever measured there. It tied 1997 as Denmark's warmest summer.",
+  "wiki": {
+   "t": "2018 European heatwave",
+   "u": "https://en.wikipedia.org/wiki/2018_European_heatwave"
+  },
+  "alt": {
+   "t": "DMI: summer 2018 overview (Danish)",
+   "u": "https://www.dmi.dk/fileadmin/user_upload/Afrapportering/Saesonoversigter/sommer18.pdf"
+  }
+ },
+ {
+  "k": "GB12",
+  "v": "sdu",
+  "months": [
+   [
+    2012,
+    6
+   ],
+   [
+    2012,
+    7
+   ],
+   [
+    2012,
+    8
+   ]
+  ],
+  "bbox": [
+   -11.0,
+   49.0,
+   4.0,
+   60.0
+  ],
+  "region": {
+   "type": "country",
+   "id": "826"
+  },
+  "name": "The washout summer",
+  "when": "Summer 2012",
+  "loc": "826",
+  "year": 2012,
+  "opts": [
+   "826",
+   "372",
+   "578"
+  ],
+  "yearOpts": [
+   2012,
+   2007,
+   2017
+  ],
+  "dir": -1,
+  "text": "After a spring that started in drought, April and June 2012 were each the wettest on record and the summer was the UK's wettest since 1912. Floods killed at least 9 people and caused about £1 billion in insured losses.",
+  "wiki": {
+   "t": "2012 Great Britain and Ireland floods",
+   "u": "https://en.wikipedia.org/wiki/2012_Great_Britain_and_Ireland_floods"
+  },
+  "alt": {
+   "t": "Met Office: record rainfall April–July 2012",
+   "u": "https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/weather/learn-about/uk-past-events/interesting/2012/record-rainfall---april-to-july-2012---met-office.pdf"
+  }
+ },
+ {
+  "k": "ES22",
+  "v": "sis",
+  "months": [
+   [
+    2022,
+    3
+   ]
+  ],
+  "bbox": [
+   -11.0,
+   35.0,
+   5.0,
+   45.0
+  ],
+  "region": {
+   "type": "country",
+   "id": "724"
+  },
+  "name": "Storm Celia's Saharan dust",
+  "when": "March 2022",
+  "loc": "724",
+  "year": 2022,
+  "opts": [
+   "724",
+   "620",
+   "504"
+  ],
+  "yearOpts": [
+   2022,
+   2018,
+   2013
+  ],
+  "dir": -1,
+  "text": "Storm Celia drew a huge plume of Saharan dust over Spain in mid-March 2022 and turned the skies yellow and orange. 107 of Spain's 471 air-quality stations recorded historically high PM10 levels.",
+  "wiki": {
+   "t": "2021–22 European windstorm season (Storm Celia)",
+   "u": "https://en.wikipedia.org/wiki/2021%E2%80%9322_European_windstorm_season"
+  },
+  "alt": {
+   "t": "Copernicus CAMS: Saharan dust heads north",
+   "u": "https://atmosphere.copernicus.eu/saharan-dust-heads-north-cams-tracks-its-progress"
+  }
+ },
+ {
+  "k": "ARO12",
+  "v": "ice",
+  "months": [
+   [
+    2012,
+    9
+   ]
+  ],
+  "bbox": [
+   -180.0,
+   50.0,
+   180.0,
+   90.0
+  ],
+  "region": {
+   "type": "lat",
+   "min": 66.5
+  },
+  "name": "Arctic sea ice record low",
+  "when": "September 2012",
+  "loc": "ARO",
+  "year": 2012,
+  "opts": [
+   "ARO",
+   "SOO",
+   "GIC"
+  ],
+  "yearOpts": [
+   2012,
+   2007,
+   2020
+  ],
+  "dir": -1,
+  "text": "On 16 September 2012 Arctic sea ice shrank to 3.41 million km², 18% below the previous record set in 2007 and 49% below the 1979–2000 average.",
+  "wiki": {
+   "t": "Arctic sea ice decline",
+   "u": "https://en.wikipedia.org/wiki/Arctic_sea_ice_decline"
+  },
+  "alt": {
+   "t": "NSIDC: Arctic sea ice extent settles at record seasonal minimum",
+   "u": "https://nsidc.org/sea-ice-today/analyses/arctic-sea-ice-extent-settles-record-seasonal-minimum"
+  }
+ },
+ {
+  "k": "SOO23",
+  "v": "ice",
+  "months": [
+   [
+    2023,
+    7
+   ],
+   [
+    2023,
+    8
+   ],
+   [
+    2023,
+    9
+   ]
+  ],
+  "bbox": [
+   -180.0,
+   -90.0,
+   180.0,
+   -50.0
+  ],
+  "region": {
+   "type": "lat",
+   "max": -50
+  },
+  "name": "Antarctic sea ice collapse",
+  "when": "Winter 2023",
+  "loc": "SOO",
+  "year": 2023,
+  "opts": [
+   "SOO",
+   "ARO",
+   "SAO"
+  ],
+  "yearOpts": [
+   2023,
+   2017,
+   2016
+  ],
+  "dir": -1,
+  "text": "Antarctic sea ice stayed far below anything seen before through the 2023 winter. Its September maximum, 16.96 million km², was nearly 1 million km² below the previous record low from 1986.",
+  "wiki": {
+   "t": "Antarctic sea ice",
+   "u": "https://en.wikipedia.org/wiki/Antarctic_sea_ice"
+  },
+  "alt": {
+   "t": "CIRES / NSIDC: Antarctic sea ice hits record low maximum",
+   "u": "https://cires.colorado.edu/news/antarctic-sea-ice-hits-record-low-maximum-extent-2023"
+  }
+ },
+ {
+  "k": "SOO14",
+  "v": "ice",
+  "months": [
+   [
+    2014,
+    9
+   ]
+  ],
+  "bbox": [
+   -180.0,
+   -90.0,
+   180.0,
+   -50.0
+  ],
+  "region": {
+   "type": "lat",
+   "max": -50
+  },
+  "name": "Antarctic sea ice record high",
+  "when": "September 2014",
+  "loc": "SOO",
+  "year": 2014,
+  "opts": [
+   "SOO",
+   "ARO",
+   "SAO"
+  ],
+  "yearOpts": [
+   2014,
+   2007,
+   2023
+  ],
+  "dir": 1,
+  "text": "Antarctic sea ice grew slowly for decades and peaked at a record 20.11 million km² on 22 September 2014, nearly four standard deviations above the 1981–2010 mean. From 2016 it began to decline fast.",
+  "wiki": {
+   "t": "Sea ice",
+   "u": "https://en.wikipedia.org/wiki/Sea_ice"
+  },
+  "alt": {
+   "t": "NOAA Climate.gov: Antarctic winter sea ice sets new record",
+   "u": "https://www.climate.gov/news-features/featured-images/antarctic-winter-sea-ice-extent-sets-new-record-2014"
+  }
+ }
+]
